@@ -1,5 +1,5 @@
 
-version: 
+version: 0.2
 
 phases:
   install:
@@ -19,5 +19,4 @@ artifacts:
   base-directory: build
  
 
-Git remote add origin https://github.com/bwitkowski/cloud-for-developers.git
-Git push -u origin master
+
